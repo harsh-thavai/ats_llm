@@ -44,8 +44,8 @@ To set up the Smart ATS project locally, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/smart-ats.git
-   cd smart-ats
+   git clone https://github.com/harsh-thavai/ats_llm.git
+   cd ats_llm
    ```
 
 2. Create a virtual environment (optional but recommended):
